@@ -16,7 +16,7 @@ In every circumstance in their short history, the beasts chose understanding. Th
 
 # Pre-generated Characters
 
-[[Pregenerated Characters]]
+[Pregenerated Characters](pregenerated_characters.md)
 
 # Key People - Starcross Caravan
 
