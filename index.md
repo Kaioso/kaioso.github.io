@@ -60,6 +60,6 @@ Under construction
 
 # Optional Reading
 
-[[Draw Steel and Setting Conversions]]
-[[Homelands]]
-[[Religion]]
+[Draw Steel and Setting Conversions](draw_steel_and_setting_conversions.md)
+[Homelands](homelands.md)
+[Religion](religion.md)
